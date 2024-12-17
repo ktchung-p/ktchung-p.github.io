@@ -1,13 +1,13 @@
 ---
-title: "Probing Flat Band Physics in Spin Ice Systems via Polarized Neutron Scattering"
+title: "Coulomb flux tube on the lattice"
 collection: publications
 category: manuscripts
 #permalink: /publication/2009-10-01-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-03-10
-venue: 'Physical Review Letters'
+date: 2024
+venue: 'Physical Review D'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.107201'
+paperurl: 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.034512'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
