@@ -22,9 +22,9 @@ repository               : "ktchung-p/ktchung-p.github.io"
 author:
   # Biographic information
   avatar           : "citations-2.jpeg"
-  name             : "Kai"
+  name             : "Kai Chung"
   pronouns         : "he/him" 
-  bio              : "Postdoctoral researcher in condensed matter physics"
+  bio              : "Postdoctoral researcher in condensed matter physics, specializing in frustrated magnetism, lattice gauge theory, and generalized symmetries"
   location         : "Dresden, Germany"
   employer         : "MPI-PKS"
   uri              : # URL

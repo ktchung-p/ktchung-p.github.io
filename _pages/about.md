@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I go by Kai, I'm a postdoctoral fellow at the Max Planck Institute for the Physics of Complex Systems in Dresden, Germany. 
+I'm Kai, a postdoctoral fellow at the Max Planck Institute for the Physics of Complex Systems in Dresden, Germany. 
 Here you can find an overview of some of my work and interests, along with my professional details. 
 
 
 About Me
+=====
+
+
+My Research
 =====
 
 My research focuses on frustrated magnetism, lattice gauge theory, generalized symmetries, and their interplay in the descriptions of spin liquid phases of matter.
