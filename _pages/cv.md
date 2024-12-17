@@ -9,12 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
+![CV1](https://ktchung-p.github.io/files/CV_Page1.svg)
+
+![CV2](https://ktchung-p.github.io/files/CV_Page2.svg)
+
+![CV3](https://ktchung-p.github.io/files/CV_Page3.svg)
+
+
+
+<!-- Education
 ======
 * Ph.D  in Physics, University of Waterloo, 2022
 * M.Sc. in Physics, San Francisco State University, 2017
-* B.Sc. in Physics, University of the Pacific, 2013
+* B.Sc. in Physics, University of the Pacific, 2013 -->
 
+
+<!-- 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -39,8 +50,8 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
-
+* Skill 3 -->
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -61,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
