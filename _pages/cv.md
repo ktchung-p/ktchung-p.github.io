@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D  in Physics, University of Waterloo, 2022
+* M.Sc. in Physics, San Francisco State University, 2017
+* B.Sc. in Physics, University of the Pacific, 2013
 
 Work experience
 ======
