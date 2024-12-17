@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+
 I'm Kai, a postdoctoral fellow at the Max Planck Institute for the Physics of Complex Systems in Dresden, Germany. 
 Here you can find an overview of some of my work and interests, along with my professional details. 
-
-
-About Me
-=====
 
 
 My Research
