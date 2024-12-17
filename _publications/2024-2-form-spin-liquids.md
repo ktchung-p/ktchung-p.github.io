@@ -11,7 +11,7 @@ paperurl: 'https://arxiv.org/abs/2310.17607'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
+We introduce a novel class of 3D spin liquids called 2-form U(1) spin liquids. These are described by emergent 2-form U(1) gauge fields, whose charged excitations are strings rather than particles. We introduce a classical Ising model on the pyrochlore lattice which realizes the classical version of this spin liquid and discuss how additional transverse exchange terms map perturbatively to a 2-form U(1) lattice gauge theory. 
 ![some pictures from the paper](https://ktchung-p.github.io/images/2-form-figures.png)
 
 
-We introduce a novel class of 3D spin liquids called 2-form U(1) spin liquids. These are described by emergent 2-form U(1) gauge fields, whose charged excitations are strings rather than particles. We introduce a classical Ising model on the pyrochlore lattice which realizes the classical version of this spin liquid and discuss how additional transverse exchange terms map perturbatively to a 2-form U(1) lattice gauge theory. 

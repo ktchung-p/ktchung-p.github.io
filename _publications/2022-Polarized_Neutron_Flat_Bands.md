@@ -12,5 +12,4 @@ paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.107201'
 ---
 
 In this work we studied the use of polarized neutron scattering to expose the correlations of flat band modes in a frustrated magnet. In particular we explained the "flat NSF", i.e. the featureless non-spin-flip scattering cross section, of nearest-neighbor spin ice, and demonstrated how it attains features in dipolar spin ice. 
-
 ![some pictures from the paper](https://ktchung-p.github.io/images/polarized-neutron-spin-ice.png)

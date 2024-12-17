@@ -12,5 +12,4 @@ paperurl: 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.034512'
 ---
 
 Here we utilized numerical Monte Carlo simulation to demonstrate the presence of a flux tube between static charges in the instantaneous Coulomb potential in Coulomb gauge for SU(2) lattice gauge theory.
-
 ![picture of the Coulomb flux tube](https://ktchung-p.github.io/images/coulomb-flux-tube.png)
