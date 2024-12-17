@@ -10,4 +10,3 @@ location: "Dresden, Germany"
 
 This 2-part talk was given as part of the "Condensed Matter for Dummies" series hosted at MPI-PKS. You can [watch this talk on YouTube here](https://youtu.be/5fwz-5uyTzg)  (Part 2 in video description).
 
-<!-- This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown! -->
