@@ -24,7 +24,7 @@ This work motivated me to study Hodge theory and differential forms applied to s
 Using insights from Hodge theory led me to construct and study models for a new class of spin liquids, naturally dubbed 2-form U(1) spin liquids. 
 More recently my research has focused on lattice gauge theory, the nature of Higgs phases, and their interplay with generalized symmetries and symmetry breaking. 
 This work has thus far culminated in the demonstration that Higgs phases exhibit boundary symmetry breaking under appropriate boundary conditions in Abelian, non-Abelian, and higher-form gauge theories coupled to Higgs fields.
-Currently I am very interested in non-invertible symmetries and their spontaneous breaking, particularly in a class of $G$-qudit toy models.
+Currently I am very interested in non-invertible symmetries and their spontaneous breaking, particularly in a class of $$G$$-qudit toy models.
 
 
 

@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF version of my CV is accessible [here](https://ktchung-p.github.io/files/CV_Kristian_Chung.pdf)
 
 ![CV1](https://ktchung-p.github.io/files/CV_Page1.svg)
 
