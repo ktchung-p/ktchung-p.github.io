@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 #permalink: /publication/2024-phase_diagram
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024
+date: 2024-11-05
 venue: 'in review'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2411.03429'
