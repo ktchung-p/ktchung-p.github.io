@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-I'm Kai, a postdoctoral fellow at the Max Planck Institute for the Physics of Complex Systems in Dresden, Germany. 
+I'm Kai, a postdoctoral fellow at Rice University. 
 Here you can find an overview of some of my work and interests, along with my professional details. 
-I hail from sunny California and did my Ph.D. in Ontario, Canada. 
+I hail from sunny California, completed my Ph.D. in Ontario, Canada, and did my first postdoc at MPI-PKS in Dresden, Germany.
 In my free time I'm a big fan of camping in the great outdoors. 
 
 
