@@ -10,16 +10,17 @@ redirect_from:
 
 I'm Kai, a postdoctoral fellow at Rice University. 
 Here you can find an overview of some of my work and interests, along with my professional details. 
-I hail from sunny California, completed my Ph.D. in Ontario, Canada, and did my first postdoc at MPI-PKS in Dresden, Germany.
+I hail from sunny California, but completed my Ph.D. in Ontario, Canada. 
+I did my first postdoc at MPI-PKS in Dresden, Germany, and am a Postdoctoral Research Fellow of the [Smalley Curl Institute](https://sci.rice.edu/people/postdoctoral-fellows) at Rice University in Houston, Texas.
 In my free time I'm a big fan of camping in the great outdoors. 
 
 
 My Research
 =====
 
-My research focuses on frustrated magnetism, lattice gauge theory, generalized symmetries, and their interplay in the descriptions of spin liquid phases of matter.
+My research focuses on frustrated magnetism, lattice gauge theory, generalized symmetries, and their interplay in the descriptions of topological phases of matter such as spin liquids.
 My interests are particularly focused on gauge fields and topology in condensed matter systems, particularly in the context of spin liquids and frustrated quantum magnets, and in the use of higher-form and generalized symmetries in guiding our understanding of such exotic phases of matter.
-Towards that end I run a [journal club on generalized symmetries](https://generalized-symmetries-journal-club.github.io). 
+I used to run a [journal club on generalized symmetries](https://generalized-symmetries-journal-club.github.io), but it is currently on hiatus. 
 Here's a quick intro to what I work on, check out my [publications page](https://ktchung-p.github.io/publications) for more!
 You'll note I am a big fan of making nice 3D figures (which I make using Mathematica), you'll find lots more on my publication page and in my papers.
 
