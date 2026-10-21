@@ -1,0 +1,11 @@
+---
+title: "Fracton Spin Liquid and Exotic Frustrated Phases in Ising-like Octochlore Magnets"
+collection: publications
+category: manuscripts
+date: 2026-03-12
+venue: 'arXiv:2603.12313'
+paperurl: 'https://doi.org/10.48550/arXiv.2603.12313'
+---
+
+For nearly three decades, research on frustrated magnetism in three dimensions (3D) has centered on the pyrochlore lattice of corner-sharing tetrahedra and the classical spin liquid (CSL) known as spin ice. We propose that a lattice of corner-sharing octahedra -- the octochlore lattice -- may provide a next-generation platform for 3D frustrated magnetism, with realizations in anti-perovskite and alkali-rare-earth fluoride compounds. We study the phase diagram of Ising moments on the octochlore lattice, finding a variety of frustrated phases including CSLs and phases with subextensive ground state degeneracy intermediate between spin liquids and long-range order. Utilizing a cluster multipole framework, we present a unified treatment of this variety of frustrated behaviors. In addition to a spin ice CSL, we identify a fracton CSL with excitations restricted to move along one-dimensional (1D) lines, a classical U(1) equivalent of the paradigmatic X-cube model harboring fracton topological order. These "lineon" quasiparticles carry magnetic quadrupole moments, contrasting the famous magnetic monopoles of spin ice. These two CSLs lie at the boundaries of a parent "frustrated chains" phase with subextensive degeneracy. Each CSL corresponds to a condensate of different bound states of 1D ferro-spinons, giving rise to quasi-critical dimensional crossovers near the ends of the frustrated chains phase associated to avoided Kasteleyn-like transitions. We also find a spin nematic phase whose ground states may be viewed as fracton crystals, exhibiting both uniaxial and biaxial orders. The latter is caused by spontaneous dimensional reduction owing to accidental symmetries of the subextensive ground state manifold. This work paves the way for the realization of fracton CSLs and the exploration of other exotic states in underexplored octochlore magnetic materials.
+![](https://ktchung-p.github.io/images/octochlore.png)

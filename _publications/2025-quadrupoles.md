@@ -2,7 +2,7 @@
 title: "Geometrically Frustrated Quadrupoles on the Pyrochlore Lattice and Generalized Spin Liquids"
 collection: publications
 category: manuscripts
-date: 2025-06-24
+date: 2026-09-11
 venue: 'Physical Review X 16, 031065 (2026)'
 paperurl: 'https://doi.org/10.1103/vl1q-p27w'
 ---
