@@ -15,9 +15,6 @@ A PDF version of my CV is accessible [here](https://ktchung-p.github.io/files/CV
 
 ![CV2](https://ktchung-p.github.io/files/CV_Page2.svg)
 
-![CV3](https://ktchung-p.github.io/files/CV_Page3.svg)
-
-
 
 <!-- Education
 ======
